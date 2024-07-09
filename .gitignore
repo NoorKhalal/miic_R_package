@@ -16,3 +16,5 @@ src/miic.so
 src/.clangd/
 src/.cache/clangd/
 compile_commands.json
+# Local build
+miic_2.0.0.tar.gz
